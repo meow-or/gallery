@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 1rem;
+}
+
+.slide {
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.slide-1 {
+  background: lightgoldenrodyellow;
+}
+
+.slide-2 {
+  background: lightcoral;
+}
+
+.slide-3 {
+  background: lightblue;
+}
+
+.slide-4 {
+  background: lightsalmon;
+}
+
+.slide-5 {
+  background: lightseagreen;
+}
